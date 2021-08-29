@@ -2,7 +2,7 @@
 
 ###  FIX HERE VERSION IF NECESSARY  ###
 ###  LINKS ARE AT THE AND OF SCRIPT  ###
-src_SDL2=SDL2-2.0.12
+src_SDL2=SDL2-2.0.16
 src_SDL2_image=SDL2_image-2.0.5
 src_SDL2_mixer=SDL2_mixer-2.0.4
 src_SDL2_net=SDL2_net-2.0.1
